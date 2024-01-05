@@ -7,10 +7,10 @@ print(a.count(a))
 print()
 
 print('jimmy is a good boy'.count('g'))
-print('jimmy is a good boy'.count('i', 1)) # count from index 4 to end of string
+print('jimmy is a good boy'.count('i', 1)) # Count from index 4 to end of string
 print()
 
-print('This is a string'.count('s', 4, 10)) #cout from index 4 to 10-1
+print('This is a string'.count('s', 4, 10)) # cout from index 4 to 10-1
 print('This is a string'.count('T')) # count 'T' case sensitive, only 1 T
 print()
 
