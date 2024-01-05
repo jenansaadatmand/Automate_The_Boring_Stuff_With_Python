@@ -35,7 +35,7 @@ print('Postman'.endswith(('man', 'ma'), 2, 6))
 print()
 
 #find/index(sub,[start], [end]) , case-sensitive
-'''return the (index) in the string where the (first occurance) of
+'''return the (index) in the string where the (first occurrence) of
 the substring sub is found, find returns -1 if sub not found'''
 '''index() returns ValueError if sub is not found'''
 
