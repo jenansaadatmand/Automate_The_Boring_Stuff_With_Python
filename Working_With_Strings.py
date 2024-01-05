@@ -20,6 +20,7 @@ otherwise return False, suffix can be a tuple of suffix to look for'''
 
 # Check 'man' at index 4 to 6, check the entire string
 print('man'.endswith('man'))
+
 # check from index 3 to end of string
 print('Postman'.endswith('man', 3))
 # check from index 2 to 6-1
