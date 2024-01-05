@@ -21,7 +21,7 @@ otherwise return False, suffix can be a tuple of suffix to look for'''
 # Check 'man' at index 4 to 6, check the entire string
 print('man'.endswith('man'))
 
-# Check from index 3 to end of string
+# Check from index 3 to the end of string
 print('Postman'.endswith('man', 3))
 
 # Check from index 2 to 6-1
