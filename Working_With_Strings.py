@@ -47,7 +47,7 @@ print('This is a string'.find('s', 7, 11)) # check from index 7 to 11-1
 
 print('This is a string'.find('s', 7, 10)) # Check from index 7 to 10-1
 print()
-print('This is a string'.find('p')) # sub is not found
+print('This is a string'.find('p')) # Sub is not found
 
 #print('This is a string'.index('p')) # Value error using index if is not found
 print()
