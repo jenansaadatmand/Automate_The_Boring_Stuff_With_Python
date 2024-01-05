@@ -96,7 +96,7 @@ print()
 
 #isupper() , all uppercase
 '''return true if all characters in the string are uppercase
-and there is at least one haracter, false otherwise'''
+and there is at least one character, false otherwise'''
 
 print('ABCD'.isupper())
 print('Abcd'.isupper()) # false
