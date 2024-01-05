@@ -18,7 +18,7 @@ print()
 ''' return True if the string ends with specified suffix,
 otherwise return False, suffix can be a tuple of suffix to look for'''
 
-# check 'man' at index 4 to 6, check the entire string
+# Check 'man' at index 4 to 6, check the entire string
 print('man'.endswith('man'))
 # check from index 3 to end of string
 print('Postman'.endswith('man', 3))
