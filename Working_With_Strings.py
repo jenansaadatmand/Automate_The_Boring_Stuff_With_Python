@@ -165,7 +165,7 @@ print()
 delimiter. If sep is not given, at most maxsplit is used as the
 delimiter. If maxsplit is given, at most maxsplit splits
 are done'''
-#split using comma as delimiter.
+# Split using comma as delimiter.
 ''' Notice there is a space before
 the words 'is', 'a', and 'string' in the output''' 
 
@@ -173,11 +173,11 @@ print('This is a string'.split(',')) # one word in list
 print('this, is, a, string'.split(','))
 print()
 
-#Split using whitespace as delimiter
+# Split using whitespace as delimiter
 print('This is a string'.split())
 print('This is a string'.split(' '))
 
-#Only do 2 splits
+# Only do 2 splits
 print('This, is, a, string'.split(',', 2))
 print()
 
