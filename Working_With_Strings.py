@@ -152,7 +152,7 @@ print()
 #replace(old, new[, count]) case-sensitive, replace()
 '''return a copy of the string with all occurrences of substring
 old replaced by new.  Count is optional. If given only first
-count occurrences are replcaed'''
+count occurrences are replaced''
 
 print('This is a string'.replace('s', 'p'))  # replace all occurences
 print('This is a string'.replace('s', 'pp'))
