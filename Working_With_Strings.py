@@ -1,5 +1,5 @@
 # Working with strings
-#count(sub, [start], [end]), case sensitive
+# count(sub, [start], [end]), case sensitive
 a = 'jimmy is a great boy'
 a.count('m')
 print(a.count('m'))
