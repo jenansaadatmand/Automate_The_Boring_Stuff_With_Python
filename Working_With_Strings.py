@@ -173,7 +173,7 @@ print('This is a string'.split(',')) # one word in list
 print('this, is, a, string'.split(','))
 print()
 
-#split using whitespace as delimiter
+#Split using whitespace as delimiter
 print('This is a string'.split())
 print('This is a string'.split(' '))
 
