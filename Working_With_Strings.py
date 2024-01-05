@@ -177,7 +177,7 @@ print()
 print('This is a string'.split())
 print('This is a string'.split(' '))
 
-#only do 2 splits
+#Only do 2 splits
 print('This, is, a, string'.split(',', 2))
 print()
 
