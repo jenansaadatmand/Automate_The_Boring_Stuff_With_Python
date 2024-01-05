@@ -154,9 +154,9 @@ print()
 old replaced by new.  Count is optional. If given only first
 count occurrences are replaced''
 
-print('This is a string'.replace('s', 'p'))  # replace all occurences
+print('This is a string'.replace('s', 'p'))  # Replace all occurences
 print('This is a string'.replace('s', 'pp'))
-print('This is a string'.replace('s', 'p', 2)) #replace first 2 occurences
+print('This is a string'.replace('s', 'p', 2)) #Replace first 2 occurences
 print()
 
 
