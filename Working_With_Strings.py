@@ -29,6 +29,7 @@ print('Postman'.endswith('man', 2, 6)) # false, n is in index 7-1
 
 # check from index 2 to 7-1
 print('Postman'.endswith('man', 2, 7))
+
 # using a tuple of suffixes, (check from index 2 to 6-1)
 print('Postman'.endswith(('man', 'ma'), 2, 6))
 print()
