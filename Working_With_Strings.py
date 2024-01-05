@@ -14,7 +14,7 @@ print('This is a string'.count('s', 4, 10)) # Count from index 4 to 10-1
 print('This is a string'.count('T')) # Count 'T' case sensitive, only 1 T
 print()
 
-# endswith(suffix, [start], [end]), case sensitive
+#endswith(suffix, [start], [end]), case sensitive
 ''' return True if the string ends with specified suffix,
 otherwise return False, suffix can be a tuple of suffix to look for'''
 
