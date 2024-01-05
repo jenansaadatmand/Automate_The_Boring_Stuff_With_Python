@@ -127,7 +127,7 @@ print()
 joined by a separator'''
 
 print(sep = '')
-sep = '-' # defined seperator by -
+sep = '-' # defined separator by -
 myTuple = ('a', 'b', 'c')
 myList = ['d', 'e', 'f']
 myString = "Hello World"
