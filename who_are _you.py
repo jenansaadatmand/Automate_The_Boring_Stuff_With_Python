@@ -1,3 +1,4 @@
+# A program that asks for who the person is and the password to grant access
 while True:
     print('Who are you?')
     name = input()
