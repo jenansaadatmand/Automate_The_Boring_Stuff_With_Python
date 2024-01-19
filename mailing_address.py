@@ -1,4 +1,3 @@
-
 # Displays a person's complete mailing address.
 
 print('To: Jim Jwa')
