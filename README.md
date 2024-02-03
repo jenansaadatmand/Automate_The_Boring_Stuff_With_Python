@@ -8,3 +8,4 @@ It explores a rich library of modules for performing specific tasks, like scrapi
 
 
 ![81j7-kFnvZL _SL1500_](https://github.com/jenansaadatmand/Automate_The_Boring_Stuff_With_Python/assets/153618882/d3bc052d-fab3-40d4-bbae-6d3b53139418)
+https://a.co/d/iJUa842
