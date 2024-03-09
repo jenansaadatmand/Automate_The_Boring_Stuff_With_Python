@@ -1,5 +1,5 @@
 # deleting and renaming files, remove(), rename()
-# these two functions must be imported from the os module
+# These two functions must be imported from the os module
 # remove('filename') deletes a file
 #rename('old name', 'new name') rename old file to new file
 # os function directory operations, deleting, moving aroud, changing things
