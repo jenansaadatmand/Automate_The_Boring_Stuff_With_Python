@@ -7,7 +7,7 @@ import os
 import time
 curDir = os.getcwd() # cwd current working directory
 print(curDir) # displays /Users/jenansaadatmand/Documents
-os.mkdir('newDir') # make new directory 
+os.mkdir('newDir') # Make new directory 
 time.sleep(2) # so we can see the action happening
 os.rename('newDir', 'newDir2') #rename directory
 
