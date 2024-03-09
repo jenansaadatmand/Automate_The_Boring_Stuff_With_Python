@@ -9,7 +9,7 @@ curDir = os.getcwd() # cwd current working directory
 print(curDir) # Displays /Users/jenansaadatmand/Documents
 os.mkdir('newDir') # Make new directory 
 time.sleep(2) # So we can see the action happening
-os.rename('newDir', 'newDir2') #Rename directory
+os.rename('newDir', 'newDir2') # Rename directory
 
 
 
