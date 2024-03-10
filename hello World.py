@@ -1,5 +1,5 @@
 #print("Hello World!") # This prints some text
-#print("Jimmy is my Love")
+#print("Jimmy is a good boy")
 #red_bucket = input ("What do you want to put in the bucket?")
 #print(red_bucket)
 #print(type(red_bucket))
