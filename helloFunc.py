@@ -3,6 +3,6 @@ def hello():
     print('Howdy!!!')
     print('Hello there.')
 
-hello() # program calls hello() function three times
+hello() # Program calls hello() function three times
 hello()
 hello()
