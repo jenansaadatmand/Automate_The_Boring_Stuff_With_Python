@@ -18,7 +18,7 @@
 
 # Create a function, define and call a function
 def print_ken():
-    text = "ken Stro has a great channel"
+    text = "ken St has a great channel"
     print(text)
     print(text)
     print(text)
@@ -27,4 +27,4 @@ print_ken()
 def print_kevin1(text1):
     print(text1)
 
-print_kevin1("kevin stratvert has a goog channel")
+print_kevin1("kevin st has a goog channel")
