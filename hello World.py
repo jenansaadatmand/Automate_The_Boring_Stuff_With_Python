@@ -15,7 +15,7 @@
 #    print("Enjouy kindergraten")
 #else:
 #    print("Thomas should be in another class")
-# Creating a function, define and call a function
+# Create a function, define and call a function
 def print_ken():
     text = "ken Stro has a great channel"
     print(text)
