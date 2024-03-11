@@ -5,6 +5,7 @@ def checkIfPrime (numberToCheck):
         if (numberToCheck%x == 0 ):
             return False
         return True
+        
 # Call the function
 checkIfPrime(13)
 # Assign a variable to the function
