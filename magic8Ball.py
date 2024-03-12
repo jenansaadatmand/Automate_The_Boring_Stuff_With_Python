@@ -22,5 +22,3 @@ def getAnswer(answerNumber):
 #fortune = getAnswer(r)
 #print(fortune)
 print(getAnswer(random.randint(1, 9)))
-
-    
