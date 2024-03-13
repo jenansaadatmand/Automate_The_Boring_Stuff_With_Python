@@ -27,5 +27,4 @@ answer = prime.checkIfPrime(13) # assigning variable to returned expression from
 print(answer)
 print()
 
-# importing module stored in a different folder than new program, import sys
-
+# Importing module stored in a different folder than new program, import sys
