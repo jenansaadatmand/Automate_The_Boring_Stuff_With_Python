@@ -1,4 +1,4 @@
-#importing built-in modules containing functions. import random module
+#Importing built-in modules containing functions. import random module
 #import random
 #To use randrange()
 # random.randrange(1, 10)
