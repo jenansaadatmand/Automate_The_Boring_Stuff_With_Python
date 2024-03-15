@@ -29,6 +29,7 @@ outside a function (global)'''
 global variable is accessible anywhere in the program'''
 
 message1 = "Global Variable"
+
 def myfunction():
     print("\nINSIDE THE FUNCTION") # Global Variable are accessible inside a function
     print(message1)
