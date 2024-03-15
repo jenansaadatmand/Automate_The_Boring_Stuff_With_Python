@@ -1,4 +1,4 @@
-#functions
+# Functions
 a = "Hello World"
 print(a)
 # does not work!
