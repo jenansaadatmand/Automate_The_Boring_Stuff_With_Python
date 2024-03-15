@@ -19,6 +19,8 @@ def checkIfPrime(numberToCheck):
 Answer = checkIfPrime(13)
 print(Answer)
 print()
+
+
 #Variable scope concept when defining a function
 '''variable defined/declared inside a function (local)
 are treated differently from variables defined
