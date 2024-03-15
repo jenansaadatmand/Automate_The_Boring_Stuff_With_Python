@@ -58,7 +58,7 @@ def myfunction2():
     print("\nINSIDE THE FUNCTION")
     print(message1)
 # Calling the function myFunction2()
-#printing message1 OUTSIDE the function print("\nOUTSIDE THE FUNCTION")
+# Printing message1 OUTSIDE the function print("\nOUTSIDE THE FUNCTION")
     print(message1)
     
 print()
