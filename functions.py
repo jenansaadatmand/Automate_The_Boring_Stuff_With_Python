@@ -40,7 +40,7 @@ message2 = "Local Variable"
 
 # Calling the function myfunction()
 print("\nOUTSIDE THE FUNCTION")
-# Global variables are accessible outside function
+# Global variables are accessible outside the function
 print(message1)
 # Local variable are NOT accessible outside function
 print(message2)
