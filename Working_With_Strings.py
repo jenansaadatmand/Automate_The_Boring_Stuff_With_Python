@@ -78,7 +78,7 @@ print()
 
 
 #islower() , lowercase
-'''return true if all cased characters in the string are lowercase
+'''return true if all case characters in the string are lowercase
 and there is at least one character, false otherwise'''
 
 print('abcd'.islower())
