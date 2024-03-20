@@ -57,7 +57,7 @@ print('1234'.isalnum())
 print()
 
 # isalpha() all alphabetic only
-'''return true if all characters in the string are alphabtic
+'''return true if all characters in the string are alphabetic
 and there is at least one character, false otherwise'''
 
 print('abcd'.isalpha())
