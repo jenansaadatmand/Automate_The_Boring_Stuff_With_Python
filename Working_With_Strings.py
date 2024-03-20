@@ -96,7 +96,7 @@ print('abcd'.isupper())
 print()
 
 #isspace() only white space
-'''return true if there are only whitespace charcters in the string
+'''return true if there are only whitespace characters in the string
 and there is at least one character, false otherwise'''
 
 print(''.isspace()) # no whitespace
