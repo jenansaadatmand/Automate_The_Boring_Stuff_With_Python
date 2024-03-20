@@ -47,7 +47,7 @@ print()
 #isalnum() , all alphabetic and numeric 
 '''return true if all characters in the string are
 alphanumeric and there is at least one character, false otherwise.
-Alphanumeric does not include whitespacs''' 
+Alphanumeric does not include whitespaces'' 
 
 print('abcd1234'.isalnum())
 print('a b c d 1 2 3 4'.isalnum()) # Has white space
