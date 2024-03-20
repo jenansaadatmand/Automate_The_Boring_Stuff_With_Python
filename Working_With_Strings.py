@@ -37,7 +37,7 @@ the substring sub is found, find returns -1 if sub not found'''
 
 print('This is a string'.find('s'))  # check entire string
 print('This is a string'.find('s', 4)) # check from index 4 of end of string
-print('This is a string'.find('s', 7, 11)) # check from index 7 to 11-1
+print('This is a string'.find('s', 7, 11)) # Check from index 7 to 11-1
 print('This is a string'.find('s', 7, 10)) # check from index 7 to 10-1
 print()
 print('This is a string'.find('p')) # sub is not found
