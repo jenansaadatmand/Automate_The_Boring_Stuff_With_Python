@@ -46,7 +46,7 @@ print()
 
 #isalnum() , all alphabetic and numeric 
 '''return true if all characters in the string are
-alphanumeric and thre is at least one character, false otherwise.
+alphanumeric and there is at least one character, false otherwise.
 Alphanumeric does not include whitespacs''' 
 
 print('abcd1234'.isalnum())
