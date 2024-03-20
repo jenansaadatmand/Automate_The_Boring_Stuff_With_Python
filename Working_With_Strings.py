@@ -52,7 +52,7 @@ Alphanumeric does not include whitespacs'''
 print('abcd1234'.isalnum())
 print('a b c d 1 2 3 4'.isalnum()) # Has white space
 print('abcd'.isalnum())
-print(''.isalnum()) # no alphanumeric and all white space
+print(''.isalnum()) # No alphanumeric and all white space
 print('1234'.isalnum())
 print()
 
