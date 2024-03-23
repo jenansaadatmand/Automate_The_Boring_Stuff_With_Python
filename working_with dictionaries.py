@@ -108,7 +108,7 @@ myTuple2 = myTuple + ('e', 'f')
 print(myTuple2)
 print()
 
-# multiplication Operator: *  Duplicate a tuple and concatenate it to the end of the tuple
+# Multiplication Operator: *  Duplicate a tuple and concatenate it to the end of the tuple
 myTuple = ('a', 'b', 'c', 'd')
 print(myTuple * 3) 
 print(myTuple) # the + and * don't modify the tuple, the tuple stays the same
