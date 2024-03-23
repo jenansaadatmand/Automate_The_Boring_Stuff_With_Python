@@ -13,7 +13,7 @@ print()
 #del, delete entire dictionary, dictionary disappears
 dic2 = {1: 'one', 2: 'two'}
 del dic2
-#print(dic2) # you will get NameError: name 'dic2' is not defined, because dic2 has been deleted
+#print(dic2) # You will get NameError: name 'dic2' is not defined, because dic2 has been deleted
 print()
 
 # get() returns a value for the given key, if key not found will retufn None
