@@ -37,7 +37,7 @@ print()
 if '4' in dic1a:
     dic1a["4"].append('CCC') # trick to appending two items in list as values for one key
 
-# in , check if item is in the dictionary
+# in , check if the item is in the dictionary
 diccc = {1: 'one', 2: 'two' }
 
 a = 1 in diccc # check if item 1 in dictionary
