@@ -71,7 +71,7 @@ dic1T = {1: 'one', 2: 'two'}
 print(len(dic1T))
 print()
 
-# update , adds/merges one dictionary key-value pairs to another dictionary. Duplicates are removed
+# update , adds/merges one dictionary key-value pair to another dictionary. Duplicates are removed
 dictaa = {1: 'one', 2: 'two'}
 dictcc = {1: 'one', 3: 'three'}
 
