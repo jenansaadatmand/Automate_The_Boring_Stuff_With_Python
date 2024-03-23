@@ -52,7 +52,7 @@ print('three' in diccc.values())
 #items()  , return a list of dictionary's pairs as tuples
 
 dic1 = {1: 'one', 2: 'two'}
-print(dic1.items()) # returns Tuples of list with dictionary pairs
+print(dic1.items()) # Returns Tuples of list with dictionary pairs
 
 #keys()  return list of the dictionary keys or dictionary values
 dic1a = {1: 'one', 2: 'two'}
