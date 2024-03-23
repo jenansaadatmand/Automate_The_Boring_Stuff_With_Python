@@ -30,7 +30,7 @@ print(d)
 if "4" in dic1a:
     dic1a["4"] = ["Four"]
 else:
-    dic1a["4"] = ["FOUR"]  # trick to append if it is not in dictionary
+    dic1a["4"] = ["FOUR"]  # Trick to append if it is not in dictionary
     print(dic1a)
 print()
 
