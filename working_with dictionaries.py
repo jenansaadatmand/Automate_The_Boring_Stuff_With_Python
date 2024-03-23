@@ -10,7 +10,7 @@ dic1.clear()  # Returns empty dictionary
 print(dic1)
 print()
 
-#del  , delete entire dictionary, dictionary disappears
+#del, delete entire dictionary, dictionary disappears
 dic2 = {1: 'one', 2: 'two'}
 del dic2
 #print(dic2) # you will get NameError: name 'dic2' is not defined, because dic2 has been deleted
