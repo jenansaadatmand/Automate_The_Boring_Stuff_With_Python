@@ -6,7 +6,7 @@ dic1 = {1: 'one', 2: 'two'}
 print(dic1)
 print()
 
-dic1.clear()  # returns empty dictionary
+dic1.clear()  # Returns empty dictionary
 print(dic1)
 print()
 
