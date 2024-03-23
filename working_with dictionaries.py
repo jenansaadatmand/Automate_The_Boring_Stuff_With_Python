@@ -16,7 +16,7 @@ del dic2
 #print(dic2) # You will get NameError: name 'dic2' is not defined, because dic2 has been deleted
 print()
 
-# get() returns a value for the given key, if key not found will retufn None
+# get() returns a value for the given key, if key not found will return None
 # alternatively, you can stae the value to return if the key is not found
 dic1a = {1: 'one', 2: 'two'}
 a = dic1a.get(1)
