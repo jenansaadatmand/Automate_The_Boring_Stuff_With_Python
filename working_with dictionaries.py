@@ -23,7 +23,7 @@ a = dic1a.get(1)
 print(a)
 b = dic1a.get(2)
 print(b)
-c = dic1a.get(5) # key 5 is not defined
+c = dic1a.get(5) # Key 5 is not defined
 print(c)
 d = dic1a.get(5, "Not Found")
 print(d)
