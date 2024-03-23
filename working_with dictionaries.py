@@ -43,7 +43,7 @@ diccc = {1: 'one', 2: 'two' }
 a = 1 in diccc # Check if item 1 in the dictionary
 b = 2 in diccc
 c = 3 in diccc
-print(a, b, c) # print all three answers/variables
+print(a, b, c) # Print all three answers/variables
 print()
 
 print('one' in diccc.values())
