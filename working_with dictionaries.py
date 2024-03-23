@@ -17,7 +17,7 @@ del dic2
 print()
 
 # get() returns a value for the given key, if key not found will return None
-# Alternatively, you can see the value to return if the key is not found
+# Alternatively, you can state the value to return if the key is not found
 dic1a = {1: 'one', 2: 'two'}
 a = dic1a.get(1)
 print(a)
