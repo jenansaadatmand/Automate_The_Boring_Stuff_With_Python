@@ -1,6 +1,6 @@
 def spam():
     eggs = 'spam local'
-    print(eggs)    # prints 'spam local'
+    print(eggs)    # Prints 'spam local'
 
 def bacon():
     eggs = 'bacon local'
