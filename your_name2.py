@@ -4,5 +4,3 @@ while True:
     if name == 'your name':
         break
 print('Thnak you!')
-
-    
