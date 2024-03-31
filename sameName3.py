@@ -3,7 +3,7 @@ def spam():
     eggs = 'spam'    # This is the global
 
 def bacon():
-    eggs = 'bacon'   # this is a local
+    eggs = 'bacon'   # This is a local
 
 def ham():
     print(eggs)      # this is the global
