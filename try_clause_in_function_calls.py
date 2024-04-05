@@ -8,4 +8,3 @@ try:
     print(spam(1))
 except ZeroDivisionError:
     print('Error: Invalid argument.')
-    
