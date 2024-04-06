@@ -1,5 +1,5 @@
 #Opening and reading text files by Buffer size so that we don't use much memory resources
-# Use read() to specify buffer we want, instead of readline()
+# Use read() to specify the buffer we want, instead of readline()
 inputFile = open('myfile.txt', 'r')
 outputFile = open('myoutputfile.txt', 'w')
 msg = inputFile.read(10) # read 10 bytes only
