@@ -10,7 +10,7 @@ inputFile.close()
 outputFile.close()
 
 #opening, reading and writing binary files (non text, image or video)
-# use 'rb' or 'wb' mode to read binary, write binary
+# Use 'rb' or 'wb' mode to read binary, write binary
 #inputFile = open('myimage.jpg', 'rb')
 #outputFile = open('myoutputimage.jpg', 'wb')
 #msg = inputFile.read(10) # read 10 bytes only
