@@ -1,4 +1,4 @@
-#opening and reading text files by Buffer size so that we don't use much memory resources
+#Opening and reading text files by Buffer size so that we don't use much memory resources
 # use read() to specify buffer we want, instead of readline()
 inputFile = open('myfile.txt', 'r')
 outputFile = open('myoutputfile.txt', 'w')
