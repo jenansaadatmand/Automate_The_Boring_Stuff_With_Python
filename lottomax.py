@@ -3,7 +3,7 @@ import random
 a=[]
 for i in range(0, 7):
     a.append(random.randint(1, 51))
-    print('Lottomax selection list is: ' ,a)    # print indented prints various lists
+    print('Lottomax selection list is: ' ,a)    # Print indented prints various lists
 
 print()
 
