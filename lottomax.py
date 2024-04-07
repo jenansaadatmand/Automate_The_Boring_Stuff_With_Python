@@ -1,4 +1,4 @@
-# Program generates random 7 lotto numbers between 1 and 50
+# A program generates random 7 lotto numbers between 1 and 50
 import random
 a=[]
 for i in range(0, 7):
