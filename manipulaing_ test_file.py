@@ -16,7 +16,7 @@ file.close()
 file = open('testfile.txt', 'r')
 print(file.read())
 
-# read a file and call a certain number of characters
+# Read a file and call a certain number of characters
 
 file = open('testfile.txt', 'r')
 print(file.read(5))
