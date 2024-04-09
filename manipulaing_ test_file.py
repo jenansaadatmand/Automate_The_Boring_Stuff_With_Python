@@ -22,7 +22,7 @@ file = open('testfile.txt', 'r')
 print(file.read(5))
 file.close()
 print()
-# readline() function: read a file line by line, as oppose to pulling the content of file at once
+# readline() function: read a file line by line, as opposed to pulling the content of file at once
 file = open('testfile.txt', 'r')
 print(file.readline()) # returns the first line
 print(file.readline(4)) # returns four characters of second line
