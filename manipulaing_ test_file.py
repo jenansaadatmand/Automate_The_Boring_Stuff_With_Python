@@ -28,7 +28,7 @@ print(file.readline()) # returns the first line
 print(file.readline(4)) # returns four characters of second line
 file.close()
 print()
-# for loop, returns every line in file, properly separated
+# for loop, returns every line in the file, properly separated
 file = open('testfile.txt', 'r')
 for line in file:
     print(line, end = '')
