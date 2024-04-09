@@ -35,7 +35,7 @@ for line in file:
 file.close()
 print()
 
-# to append a file
+# To append a file
 file = open('testfile.txt', 'a')
 file.write('\nWe Meet Again Wold')
 file.close()
