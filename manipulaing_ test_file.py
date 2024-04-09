@@ -49,7 +49,7 @@ print()
 #'with statement' for cleaner syntax and exceptions, any file opened will be closed automatically when you are done
 with open('testfile.txt') as file: # with open('filename') as file:
     for line in file: #data = file.read()    
-        print(line, end = '') # do something with data, no need to close file
+        print(line, end = '') # do something with data, no need to close the file
 
 
 
