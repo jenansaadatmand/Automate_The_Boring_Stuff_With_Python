@@ -6,7 +6,7 @@ file.write('and this is another line''\n')
 file.write('Why? Because we can.')
 file.close()
 
-# to read the file, all content
+# To read the file, all content
 #file = open('testfile.txt', 'r')
 #for line in file:
 #    print(line, end = '')
