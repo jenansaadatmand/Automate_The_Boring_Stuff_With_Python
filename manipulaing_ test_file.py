@@ -12,7 +12,7 @@ file.close()
 #    print(line, end = '')
 #file.close()
 
-# to read a file, extract a string that contains all characters in the file
+# To read a file, extract a string that contains all characters in the file
 file = open('testfile.txt', 'r')
 print(file.read())
 
