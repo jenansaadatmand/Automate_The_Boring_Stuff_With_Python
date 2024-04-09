@@ -1,4 +1,4 @@
-# to write into the file
+# To write into the file
 file = open('testfile.txt', 'w')
 file.write('Hello World''\n')
 file.write('This is our new text file''\n')
