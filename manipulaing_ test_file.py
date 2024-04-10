@@ -50,3 +50,4 @@ print()
 with open('testfile.txt') as file: # with open('filename') as file:
     for line in file: #data = file.read()    
         print(line, end = '') # Do something with data, no need to close the file
+
