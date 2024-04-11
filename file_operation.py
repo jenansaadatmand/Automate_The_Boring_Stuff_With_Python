@@ -10,7 +10,7 @@ print(secondline)
 print(thirdline, end = '')
 print(fourthline)
 print(fifthline)
-f.close() # closes the file to free up system resources
+f.close() # Closes the file to free up system resources
 # readline() function adds a new line '\n' after each line
 #if you don't want the extra new line between each line of text
 '''print(firstline, end = '')''' # single line no space
