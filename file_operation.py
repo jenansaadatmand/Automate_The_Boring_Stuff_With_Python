@@ -31,7 +31,7 @@ f.write('\nTHIS sentence will be appended.') # Escape character "\n" for new lin
 f.write('\nPython is Fun!')
 print() # Will print all text in the file
 f.close()
-# if you keep running the program, it will append the samething over and over
+# If you keep running the program, it will append the samething over and over
 print()
 
 
