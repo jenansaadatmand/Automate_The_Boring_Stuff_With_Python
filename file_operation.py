@@ -17,7 +17,7 @@ f.close() # Closes the file to free up system resources
 print()
 
 # For Loop to read text files efficient way
-# for loop loops through text file line by line , read all file
+# for loop loops through text file line by line, read all file
 f = open('myfile.txt', 'r')
 for line in f:
      print(line, end = '') # end = '' prints no single line
