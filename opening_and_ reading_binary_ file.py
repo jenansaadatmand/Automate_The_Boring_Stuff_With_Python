@@ -1,5 +1,5 @@
 #Opening, reading and writing binary files (non text, image or video)
-# Use 'rb' or 'wb' mode read binary, write binary
+# Use 'rb' or 'wb' mode to read binary, write binary
 inputFile = open('myimage.jpeg', 'rb')
 outputFile = open('myoutputimage.jpg', 'wb')
 msg = inputFile.read(10) # Read 10 bytes only
