@@ -1,4 +1,4 @@
-#opening, reading and writing binary files (non text, image or video)
+#Opening, reading and writing binary files (non text, image or video)
 # use 'rb' or 'wb' mode read binary, write binary
 inputFile = open('myimage.jpeg', 'rb')
 outputFile = open('myoutputimage.jpg', 'wb')
