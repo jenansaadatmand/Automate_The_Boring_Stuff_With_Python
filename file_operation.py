@@ -1,5 +1,5 @@
 #Opening and reading Text files using readline() method, open(two parameters)
-f = open('myfile.txt', 'r') #open(filepath, mode r reading only)  
+f = open('myfile.txt', 'r') #Open(filepath, mode r reading only)  
 firstline = f.readline() # reads first line and assign it to variable firstline
 secondline = f.readline() #reads second line and assign to variable second line
 thirdline = f.readline()
