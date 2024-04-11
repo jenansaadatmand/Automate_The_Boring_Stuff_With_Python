@@ -24,7 +24,7 @@ for line in f:
 f.close()
 
 # Write to a file using a (append) mode
-#or 'W' write mode but this will erase all previous content in file if it exists
+#or 'W' write mode but this will erase all previous content in the file if it exists
 # append two sentences to file
 f = open('myfile.txt', 'a')
 f.write('\nTHIS sentence will be appended.') # escape character "\n" for new line
