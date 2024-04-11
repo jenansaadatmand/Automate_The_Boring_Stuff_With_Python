@@ -29,7 +29,7 @@ f.close()
 f = open('myfile.txt', 'a')
 f.write('\nTHIS sentence will be appended.') # Escape character "\n" for new line
 f.write('\nPython is Fun!')
-print() # will print all text in the file
+print() # Will print all text in the file
 f.close()
 # if you keep running the program, it will append the samething over and over
 print()
