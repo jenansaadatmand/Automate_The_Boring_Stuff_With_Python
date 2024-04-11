@@ -12,7 +12,7 @@ print(fourthline)
 print(fifthline)
 f.close() # Closes the file to free up system resources
 # readline() function adds a new line '\n' after each line
-#if you don't want the extra new line between each line of text
+#If you don't want the extra new line between each line of text
 '''print(firstline, end = '')''' # single line no space
 print()
 
