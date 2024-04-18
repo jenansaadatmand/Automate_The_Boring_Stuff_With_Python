@@ -10,5 +10,3 @@ def bacon():
 eggs = 'global'
 bacon()
 print(eggs)        # Prints 'global'
-
-
