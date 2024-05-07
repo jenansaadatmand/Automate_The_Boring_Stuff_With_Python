@@ -15,3 +15,4 @@ n = int(input())
 collatz(n)
  
 
+
