@@ -8,3 +8,4 @@ if numOfGuests:
     print('Be sure to have enough room for all your guests.')
 print('Done')
 
+
