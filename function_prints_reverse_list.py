@@ -17,4 +17,3 @@ def list(n):
     return result
 
 
-
