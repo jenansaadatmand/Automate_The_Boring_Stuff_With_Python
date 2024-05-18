@@ -16,4 +16,3 @@ def list(n):
         result.append(a)
     return result
 
-
