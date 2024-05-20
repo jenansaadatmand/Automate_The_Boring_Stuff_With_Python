@@ -3,3 +3,4 @@ def spam():
 eggs = 42
 spam()
 print(eggs)
+
