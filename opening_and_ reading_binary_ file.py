@@ -9,3 +9,9 @@ while len(msg):   # Loop through file 10 bytes at a time, checks len variable ms
 inputFile.close()
 outputFile.close()
 
+
+
+
+
+
+
