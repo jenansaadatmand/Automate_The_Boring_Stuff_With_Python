@@ -25,4 +25,3 @@ os.rename('newDir', 'newDir2') # Rename directory
 
 
 
-
