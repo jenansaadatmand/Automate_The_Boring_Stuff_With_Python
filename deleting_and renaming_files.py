@@ -22,4 +22,3 @@ os.rename('newDir', 'newDir2') # Rename directory
 #print(file)
 #file.close()
 
-
