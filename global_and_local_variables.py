@@ -13,4 +13,3 @@ print(eggs)        # Prints 'global'
 
 
 
-
