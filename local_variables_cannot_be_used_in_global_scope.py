@@ -4,4 +4,3 @@ def spam():
     print('eggs')
 
 
-
