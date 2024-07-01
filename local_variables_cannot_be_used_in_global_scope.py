@@ -3,4 +3,3 @@ def spam():
     spam()
     print('eggs')
 
-
