@@ -8,4 +8,3 @@ while True:
     print('You typed ' + response + '.')    
 
 
-
