@@ -12,3 +12,6 @@ print('cats', 'dogs', 'mice', sep=',')
 print('cats', ' dogs', ' mice', sep=',')
 print('cats', 'dogs', 'mice', sep='/')
 print('cats', ' dogs', ' mice', sep='')
+
+
+
