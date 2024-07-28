@@ -12,4 +12,3 @@ bacon()
 print(eggs)        # Prints 'global'
 
 
-
