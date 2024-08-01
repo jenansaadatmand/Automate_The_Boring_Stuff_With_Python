@@ -6,4 +6,3 @@ while True:
 print('Thnak you!')
 
 
-
