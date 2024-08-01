@@ -5,4 +5,3 @@ while True:
         break
 print('Thnak you!')
 
-
