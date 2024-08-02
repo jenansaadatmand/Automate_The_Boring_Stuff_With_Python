@@ -33,3 +33,7 @@ print() # Will print all text in the file
 f.close()
 # If you keep running the program, it will append the same thing over and over
 print()
+
+
+
+
