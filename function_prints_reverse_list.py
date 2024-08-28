@@ -15,3 +15,6 @@ def list(n):
     while n > 0 :
         result.append(a)
     return result
+
+
+
