@@ -6,4 +6,3 @@ else:
     print('You are neither Alice nor a little Kid.')
 
 
-
