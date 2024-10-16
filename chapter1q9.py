@@ -7,4 +7,3 @@ elif spam == 2:
 else:
     print('Greetings!')
 
-
