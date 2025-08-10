@@ -76,7 +76,6 @@ print('abcd'.isdigit())
 print('1 2 3 4'.isdigit())
 print()
 
-
 #islower() , lowercase
 '''return true if all case characters in the string are lowercase
 and there is at least one character, false otherwise'''
