@@ -151,7 +151,6 @@ print('This is a string'.replace('s', 'pp'))
 print('This is a string'.replace('s', 'p', 2)) #replace first 2 occurences
 print()
 
-
 #split([sep[, maxsplit]]) case-sensitive
 '''return a 'list' of the 'words' in the string, using 'sep' as the
 delimiter. If sep is not given, at most maxsplit is used as the
