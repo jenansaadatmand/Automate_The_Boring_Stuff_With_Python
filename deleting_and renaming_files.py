@@ -12,7 +12,6 @@ time.sleep(2) # So we can see the action happening
 os.rename('newDir', 'newDir2') # Rename directory
 
 
-
 #time.sleep(2)
 #os.rmdir('newDir2') # Remove directory
 
