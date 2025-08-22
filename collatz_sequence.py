@@ -8,7 +8,6 @@ def collatz(n):
         b = 3 * (n + 1)
         print(int(b))
     else: 
-        
         return 0
         print('number is neither even nor odd')
 
