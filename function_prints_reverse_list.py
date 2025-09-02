@@ -8,6 +8,7 @@ while n >= 0:
 print(reverse_list)
 
 print()
+
 def list(n):
     result = [ ]
     a, b = 1, 10
