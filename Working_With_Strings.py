@@ -5,7 +5,6 @@ a.count('m')
 print(a.count('m'))
 print(a.count(a))      
 print()
-
 print('jimmy is a good boy'.count('g'))
 print('jimmy is a good boy'.count('i', 1)) # Count from index 4 to end of string
 print()
