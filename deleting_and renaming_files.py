@@ -18,4 +18,3 @@ os.rename('newDir', 'newDir2') # Rename directory
 #file = open(nfile.text)
 #print(file)
 #file.close()
-
