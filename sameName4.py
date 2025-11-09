@@ -5,3 +5,4 @@ def spam():
 eggs = 'global'
 spam()
 print(eggs)
+
