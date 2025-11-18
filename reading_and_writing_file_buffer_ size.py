@@ -9,7 +9,6 @@ while len(msg):   # Loop through file 10 bytes at a time, checks len variable ms
 inputFile.close()
 outputFile.close()
 
-
 #opening, reading and writing binary files (non text, image or video)
 # Use 'rb' or 'wb' mode to read binary, write binary
 #inputFile = open('myimage.jpg', 'rb')
