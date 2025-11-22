@@ -9,7 +9,6 @@ print(reverse_list)
 
 print()
 
-
 def list(n):
     result = [ ]
     a, b = 1, 10
