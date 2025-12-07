@@ -14,6 +14,7 @@ os.rename('newDir', 'newDir2') # Rename directory
 #time.sleep(2)
 #os.rmdir('newDir2') # Remove directory
 
+
 #rename('myfile.txt', 'nfile.txt')
 #file = open(nfile.text)
 #print(file)
