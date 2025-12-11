@@ -23,7 +23,6 @@ for line in f:
      print(line, end = '') # end = '' prints no single line
 f.close()
 
-
 # Write to a file using a (append) mode
 #or 'W' write mode but this will erase all previous content in the file if it exists
 # Append two sentences to file
