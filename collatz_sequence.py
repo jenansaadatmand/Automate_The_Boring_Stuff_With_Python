@@ -11,5 +11,6 @@ def collatz(n):
         return 0
         print('number is neither even nor odd')
 
+
 n = int(input())
 collatz(n)
