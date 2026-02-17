@@ -2,7 +2,6 @@
 a = "Hello World"
 print(a)
 
-
 # Replace()
 a.replace("World", "Universe")
 print(a)
