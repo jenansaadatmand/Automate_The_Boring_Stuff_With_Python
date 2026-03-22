@@ -13,6 +13,7 @@ print()
 #import specific function from module. randrange()
 #random import randrange
 
+
 #import more than one function,randrange(), randint(), to use function you don't need to use dot notation
 from random import randrange, randint
 print(randrange(1,10))
