@@ -7,6 +7,7 @@ fourthline = f.readline()
 fifthline = f.readline()
 print(firstline)
 print(secondline)
+
 print(thirdline, end = '')
 print(fourthline)
 print(fifthline)
