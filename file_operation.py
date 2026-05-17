@@ -5,6 +5,7 @@ secondline = f.readline() #Reads the second line and assigns to the variable sec
 thirdline = f.readline()
 fourthline = f.readline()
 fifthline = f.readline()
+
 print(firstline)
 print(secondline)
 print(thirdline, end = '')
