@@ -7,7 +7,6 @@ while n >= 0:
     n -= 1
 print(reverse_list)
 
-
 print()
 
 def list(n):
