@@ -8,4 +8,3 @@ while True:
     if password == 'swordfish':
             break
 print('Access granted.')
-
