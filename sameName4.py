@@ -6,4 +6,3 @@ eggs = 'global'
 spam()
 print(eggs)
 
-
