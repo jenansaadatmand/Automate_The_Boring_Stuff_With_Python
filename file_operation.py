@@ -16,7 +16,6 @@ f.close() # Closes the file to free up system resources
 '''print(firstline, end = '')''' # Single line no space
 print()
 
-
 # For Loop to read text files efficient way
 # for loop loops through text file line by line, read all file
 f = open('myfile.txt', 'r')
