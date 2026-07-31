@@ -10,6 +10,7 @@ dic1.clear()  # Returns empty dictionary
 print(dic1)
 print()
 
+
 #del, delete entire dictionary, dictionary disappears
 dic2 = {1: 'one', 2: 'two'}
 del dic2
