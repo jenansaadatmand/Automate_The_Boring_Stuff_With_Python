@@ -13,4 +13,3 @@ for i in range(0, 7):
     a.append(random.randint(1,51))
 print('Lottomax selection list is: ',a)
 
-
