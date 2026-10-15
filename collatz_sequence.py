@@ -13,3 +13,4 @@ def collatz(n):
 
 n = int(input())
 collatz(n)
+
